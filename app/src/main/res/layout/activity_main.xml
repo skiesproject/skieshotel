@@ -4,14 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bg_main"
     android:orientation="vertical"
 
     tools:context=".MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
         android:paddingBottom="25dp"
-        android:paddingRight="25dp"
-        android:paddingLeft="25dp"
+        android:paddingRight="16dp"
+        android:paddingLeft="16dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/Recycler_View"/>
