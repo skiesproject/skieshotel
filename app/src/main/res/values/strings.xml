@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">skieshotel</string>
+    <string name="mulai">mulai</string>
+    <string name="title">Title</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">alamat</string>
+    <string name="no_telp">no_telp</string>
+    <string name="todo">TODO</string>
+</resources>
