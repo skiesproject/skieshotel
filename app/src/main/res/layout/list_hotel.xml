@@ -39,6 +39,7 @@
                 android:layout_height="wrap_content"
                 android:layout_alignBottom="@id/hotelImage"
                 android:padding="8dp"
+                android:background="@drawable/gradient"
                 android:text="@string/nama"
                 android:textColor="#FFFFFF" />
         </RelativeLayout>
